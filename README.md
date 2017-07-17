@@ -1,2 +1,2 @@
-# udp-server-client-docker
-UDP Server and Client for Kubernetes Network Testing
+# java-udp-docker
+Java Docker UDP Server and Client For K8S testing
